@@ -1,0 +1,54 @@
+portfolioitems:
+  # portfolio category
+  - title: Coding Projects
+    portfolioitem:
+      - name: Class Portal
+        image: '/images/portfolio/classportal.png'
+        link: hhttps://github.com/ckxng/ClassPortal
+        linktext: 'View on GitHub'
+        status: 'Ongoing'
+        description: 'This is a re-write of the previous [University of Scouting](https://github.com/Longhorn-Council-BSA/universityofscouting) transcript application in C# .Net 5 and Entity Framework.  The focus of this re-write was on future maintenance and support.  Longhorn Council has a grant from Microsoft for Azure services, making this the ideal platform.'
+        tags:
+          - dotnet
+          - webapp
+          - scouting
+      - name: PWD Racing Web
+        image: '/images/portfolio/racingweb.gif'
+        link: https://github.com/ckxng/racingweb
+        linktext: 'View on GitHub'
+        description: 'Racing Web is a C++17 web application developed in Wt, which facilitates a quick and easy points-based race that is projector-friendly.  The operator indicates the number of lanes and cars, then advances through the race one heat at a time.  The lane assignments for the next heat are also displayed so that the pit crew can start lining up the cars.  A simple shuffling algorithm distributes cars so that each car races in each lane once, against different cars as often as possible, and preferably not in back-to-back heats.'
+        tags:
+          - c++
+          - webapp
+          - scouting
+        status: 'Finished'
+      - name: CypherGen Web
+        image: '/images/portfolio/cyphergen-web.png'
+        link: https://github.com/ckxng/cyphergen-web
+        linktext: 'View on GitHub'
+        description: 'CypherGen Web is a very basic web tool for Gamemasters using the Cypher System to allow players to generate their first level choices remotely.  A JSON file is uploaded which encapsulates the player choices that are valid within this game setting.  A link is then generated which corresponds to this setting config.  Players may visit that link to step through customized Level 1 character creation choices.'
+        status: 'Finished'
+        tags:
+          - python
+          - webapp
+          - rpg
+      - name: MakeCode PWD Finish Line Judge
+        image: '/images/portfolio/pwd-finishline-judge.png'
+        link: https://github.com/ckxng/pxt-lightup-pwd-finishline-judge
+        linktext: 'View on GitHub'
+        status: 'Finished'
+        description: 'This project was a Cub Scout coding demonstration that illustrates the point that simple skills can be combined to make something complex.  A Pinewood Derby finish line judge and starting block was coded entirely using MakeCode blocks and default components.  AdaFruit has compatible pieces which interface with LEGO blocks and aligator clips, making the entire project Cub Scout friendly.'
+        tags:
+          - makecode
+          - arduino
+          - scouting
+      - name: SoothBot
+        image: '/images/portfolio/soothbot.png'
+        link: https://github.com/ckxng/soothbot
+        linktext: 'View on GitHub'
+        status: 'Finished'
+        description: "This Discord bot is capable of managing all aspects of the SoothDeck for Monte Cook's [Invisible Sun RPG](https://www.montecookgames.com/store/product-line/invisible-sun/).  The bot can also perform all dice rolls, calculate critical failure types, assign incantations and ephemera, and serve as a lookup for spells and similar table-based game elements.  Due to licensing requirements, this bot requires input text from the [kickstarter](https://www.kickstarter.com/projects/montecookgames/invisible-sun) to be transformed using the [text processor tool](https://github.com/ckxng/invisible-sun-text-processor) in order to use the lookup features."
+        tags:
+          - ruby
+          - discord
+          - rpg

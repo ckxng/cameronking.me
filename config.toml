@@ -1,0 +1,78 @@
+baseURL = "https://cameronking.me/"
+languageCode = "en-us"
+title = "Cameron King"
+theme = "anatole"
+
+[params]
+reversepagetitle = true
+title = "Cameron King"
+author = "Cameron King"
+description = "father.  scout leader.  tinkerer."
+profilePicture = "images/profile.jpg"
+doNotLoadAnimations = true
+contactFormAction = "https://formspree.io/f/myyoarad"
+
+[[params.socialIcons]]
+icon = "fab fa-linkedin"
+title = "LinkedIn"
+url = "https://linkedin.com/in/cameroncking/"
+
+[[params.socialIcons]]
+icon = "fab fa-facebook"
+title = "Facebook"
+url = "https://fb.com/cameroncking/"
+
+[[params.socialIcons]]
+icon = "fab fa-github"
+title = "GitHub"
+url = "https://github.com/ckxng/"
+
+[[params.socialIcons]]
+icon = "fa-solid fa-envelope"
+title = "Contact Form"
+url = "/contact/"
+
+[menu]
+
+[[menu.main]]
+name = "Home"
+identifier = "home"
+weight = 100
+url = "/"
+
+[[menu.main]]
+name = "Portfolio"
+identifier = "portfolio"
+weight = 200
+url = "/portfolio/"
+
+[[menu.main]]
+name = "RPG"
+identifier = "rpg"
+weight = 300
+
+[[menu.main]]
+name = "Cypher"
+parent = "rpg"
+identifier = "cypher"
+weight = 310
+url = "/cypher/"
+
+[[menu.main]]
+name = "Risus"
+parent = "rpg"
+identifier = "risus"
+weight = 320
+url = "/risus/"
+
+[[menu.footer]]
+name = "Terms"
+identifier = "tacos"
+weight = 100
+url = "/tacos/"
+
+[[menu.footer]]
+name = "Privacy"
+identifier = "privacy"
+weight = 200
+url = "/privacy/"
