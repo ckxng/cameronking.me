@@ -29,12 +29,10 @@ Sep 2014 - May 2021
 
 Led multiple Site Reliability Engineering teams focused on storage and infrastructure for a cloud-based EHR and billing system.
 
-### Owner/Self-Employed, eCommerce Consulting
+### Owner, eCommerce Consulting
 2010 - 2015
 
-Provided network support, software development, and website migration services directly and through subcontractors.  Managed multiple contractor teams and drove the direction, implementation, and support of new managed hosting products.  
-
-Notable clients include NFL Fantasy Football & AnimalJam through ZeroLag Hosting and DaniWeb through Excite Networks.
+Provided network support, software development, and website migration services directly and through subcontractors.  Managed multiple contractor teams and drove the direction, implementation, and support of new managed hosting products for high-profile clients such as the National Football League, AnimalJam, and others.
 
 ### Senior Linux Administrator, The Planet
 Jul 2006 - Jul 2010
