@@ -1,11 +1,14 @@
 .PHONY: default
 default: all ; 
 
-all: clean
+all: clean pull
 	hugo --minify
 
 clean:
 	rm -rf public resources
 
-run:
+run: pull
 	hugo serve -D
+
+pull:
+	git submodule update --init --recursive

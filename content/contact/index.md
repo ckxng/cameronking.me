@@ -1,7 +1,7 @@
 ---
 title: "Contact"
 date: 2022-07-01T18:33:31Z
-draft: true
+draft: false
 author: "Cameron King"
 contact: true
 ---

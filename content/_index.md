@@ -1,9 +1,8 @@
 ---
-title: "Contact"
+title: "Home"
 date: 2022-07-01T18:33:31Z
 draft: false
 author: "Cameron King"
-contact: true
 ---
 
 I am a family-man and tinkerer. The best hobbies are the ones that I can do
