@@ -47,22 +47,28 @@ weight = 200
 url = "/portfolio/"
 
 [[menu.main]]
+name = "Resume"
+identifier = "resume"
+weight = 300
+url = "/resume/"
+
+[[menu.main]]
 name = "RPG"
 identifier = "rpg"
-weight = 300
+weight = 500
 
 [[menu.main]]
 name = "Cypher"
 parent = "rpg"
 identifier = "cypher"
-weight = 310
+weight = 510
 url = "/cypher/"
 
 [[menu.main]]
 name = "Risus"
 parent = "rpg"
 identifier = "risus"
-weight = 320
+weight = 520
 url = "/risus/"
 
 [[menu.footer]]
