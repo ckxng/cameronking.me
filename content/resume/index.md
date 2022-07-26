@@ -6,8 +6,10 @@ draft: false
 
 I am a systems engineer with two decades of experience in development, professional services, site reliability, and leadership. My career focus has been on developing and training teams to support large, high-performance, and scalable infrastructures.
 
-### Lead Production Engineer, Meta
+### Production Engineer, Meta
 Jun 2022 - present
+
+Senior Production Engineer on the PE Ads: Metrics team.
 
 ### Sr. Site Reliability Engineer, Dun & Bradstreet
 Aug 2021 - Jun 2022
