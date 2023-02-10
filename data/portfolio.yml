@@ -6,7 +6,7 @@ portfolioitems:
         image: '/images/portfolio/classportal.png'
         link: hhttps://github.com/ckxng/ClassPortal
         linktext: 'View on GitHub'
-        status: 'Ongoing'
+        status: 'Finished'
         description: 'This is a re-write of the previous [University of Scouting](https://github.com/Longhorn-Council-BSA/universityofscouting) transcript application in C# .Net 5 and Entity Framework.  The focus of this re-write was on future maintenance and support.  Longhorn Council has a grant from Microsoft for Azure services, making this the ideal platform.'
         tags:
           - dotnet
