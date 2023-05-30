@@ -19,3 +19,5 @@ support them if you are so inclined.
 - [Arrowhead District](https://www.arrowheadlhc.org/) - Tech Support
 - [Jones Academy PTA](https://www.jonespta.org) - Tech Support
 - [Arlington Council of PTAs](https://www.jonespta.org) - Tech Support
+
+My PGP key is 0xA3FFA82699B00AC25C5EC0695E07C3F2A883A459.
