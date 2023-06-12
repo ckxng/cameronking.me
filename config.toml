@@ -13,6 +13,11 @@ doNotLoadAnimations = true
 contactFormAction = "https://formspree.io/f/myyoarad"
 
 [[params.socialIcons]]
+icon = "fab fa-mastodon"
+title = "Mastodon"
+url = "https://mastodon.sdf.org/@c5n"
+
+[[params.socialIcons]]
 icon = "fab fa-linkedin"
 title = "LinkedIn"
 url = "https://linkedin.com/in/cameroncking/"
